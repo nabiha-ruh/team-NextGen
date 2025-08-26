@@ -16,7 +16,7 @@ This repository showcases the work and innovations of Team NextGen in the WRO Fu
   - Obstacle Challenge  
 - Videos  
 ## Bot description 
-- CAMERA (DFrobot Huskylens AI camera)      
+- CAMERA (DFrobot Huskylens AI camera)    
   Why we used it: The WRO Future Engineers challenge requires the car to recognize lanes, signs, and obstacles in real time. The camera provides continuous image data, which we process with computer vision algorithms to keep the car on track and make decisions.
 - Ultrasonic sensor (HC-SR04)   
   While the camera handles vision, sonar ensures the car can measure distance to walls or barriers, helping with safe navigation and parking accuracy.
